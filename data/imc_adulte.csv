@@ -1,0 +1,8 @@
+min;max;Interprétation
+;16.5;famine
+16.5;18.5;maigreur
+18.5;25;corpulence normale
+25;30;surpoids
+30;35;obésité modérée
+35;40;obésité sévère
+40;;obésité massive
