@@ -2,5 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/data/imc_adulte.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/imc_enfant_F.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/imc_enfant_G.csv" charset="UTF-8" />
   </component>
 </project>
